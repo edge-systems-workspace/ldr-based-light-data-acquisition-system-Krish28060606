@@ -13,7 +13,7 @@
 #include <Arduino.h>
 
 #define ldrpin A0   ///< LDR sensor connected to analog pin A0
-
+ 
 /**
  * @brief Initializes serial communication and LDR pin.
  *
